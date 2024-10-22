@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MusicPlayer_API/static/css/main.dfbc63f4.css",
+    "main.js": "/MusicPlayer_API/static/js/main.5031892d.js",
+    "static/js/453.81ede328.chunk.js": "/MusicPlayer_API/static/js/453.81ede328.chunk.js",
+    "index.html": "/MusicPlayer_API/index.html",
+    "main.dfbc63f4.css.map": "/MusicPlayer_API/static/css/main.dfbc63f4.css.map",
+    "main.5031892d.js.map": "/MusicPlayer_API/static/js/main.5031892d.js.map",
+    "453.81ede328.chunk.js.map": "/MusicPlayer_API/static/js/453.81ede328.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfbc63f4.css",
+    "static/js/main.5031892d.js"
+  ]
+}
