@@ -1,0 +1,17 @@
+.widgets_body{
+    width: 95%;
+    height: 45%;
+    margin: 2% auto 3%;
+    background: rgb(53, 119, 233);
+    border-radius: 30px;
+    justify-content: space-evenly;
+    align-items: center;
+    background: linear-gradient(
+        370deg,
+        rgb(36, 131, 204) 0%,
+        rgba(243, 243, 243, 0.1) 100%
+    );
+    -webkit-backdrop-filter: blur(12.5px);
+    backdrop-filter: blur(12.5px);
+    overflow: hidden;
+}

@@ -1,0 +1,24 @@
+circle{
+    transition: all 1s ease-in-out;
+    transform: rotate(93deg);
+    transform-origin: 50% 50%;
+}
+
+image.active{
+    animation: rolation 30s infinite linear;
+    transform-origin: 50% 50%;
+}
+
+.progress_circle{
+    justify-content: center;
+    align-items: center;
+}
+
+@keyframes rolation{
+    from{
+        transform: rotate(0deg)
+    }
+    to{
+        transform: rotate(359deg)
+    }
+}
